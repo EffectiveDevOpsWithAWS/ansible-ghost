@@ -75,8 +75,8 @@ galaxy_info:
   #  - all
   #  - 2012R2
   - name: Amazon
-   versions:
-   - all
+    versions:
+    - all
   #  - 2013.03
   #  - 2013.09
   #- name: GenericBSD
